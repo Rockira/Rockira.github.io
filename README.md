@@ -164,7 +164,7 @@
   - Hive
   - Spark
   - Hadoop
-  - Hbase
+  - [卧槽！三歪更新了HBase](https://mp.weixin.qq.com/s/ieGZq3rZ-guIsm4hIRtHDw)
   - HDFS
   
 - 搜索引擎
