@@ -108,6 +108,7 @@
   - [敖丙找出Dubbo源码BUG，三歪夸了我一天](https://mp.weixin.qq.com/s/_5YMfQK1tmYbmRMldBPlaQ)
   - ORM框架Mybatis源码分析
   - [20000 字的 Spring Cloud 总结](https://mp.weixin.qq.com/s/pGSx8eKFH3YnUos3SM2ITw)
+  - [不懂 ZooKeeper？没关系，这一篇给你讲的明明白白](https://mp.weixin.qq.com/s/ZkglAzOYUKzFVFykD5qMaA)
   - [什么是Zookeeper](https://mp.weixin.qq.com/s/gphDLJMO3QcRoN3zkco4EA)
   - [什么是单点登录(SSO)](https://mp.weixin.qq.com/s/drPVkRbCsDIlX6Ls2pDmqA)
   - [分布式锁之Zookeeper](https://mp.weixin.qq.com/s/ZqQHWLfVD1Rz1agmH3LWrg)
@@ -149,6 +150,7 @@
   - 索引、锁机制
   - 事务特性、隔离级别
   - MySQL调优与最佳实践
+  - [MySQL 三万字精华总结 + 面试100 问，吊打面试官绰绰有余](https://mp.weixin.qq.com/s/V37yr_352InnUsGNnDsBpQ)
   - [MySQL的索引是怎么加速查询的？](https://mp.weixin.qq.com/s/7TPVOT7sloDUKmhldf9uvg)
   - [数据库索引](https://mp.weixin.qq.com/s/_9rDde9wRYoZeh07EASNQQ)
   - [MySql主从复制，从原理到实践！](https://mp.weixin.qq.com/s/eEWMSTAUF1H-gFBx26jujw)
